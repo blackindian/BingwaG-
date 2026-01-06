@@ -1,0 +1,5 @@
+Flask
+requests
+africastalking
+gunicorn
+Flask-SQLAlchemy
